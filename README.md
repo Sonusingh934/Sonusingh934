@@ -5,7 +5,9 @@
 - 📫 How to reach me sonusinghh934@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+this is my first git repository.
+<br>
+ask changes
 <!---
 Sonusingh934/Sonusingh934 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
